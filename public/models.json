@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kate Upton",
+        "ocupation": "Model",
+        "age": 28,
+        "country": "USA",
+        "salary": 1200000,
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2020%2F01%2Fkate-upton-what-its-like-to-have-people-talk-about-your-body.jpg&q=85"
+    },
+    {
+        "name": "Kendall Jenner",
+        "ocupation": "Model",
+        "age": 26,
+        "country": "USA",
+        "salary": 1100000,
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kendall-jenner-sued-1628153072.jpg"
+    },
+    {
+        "name": "Adriana Lima",
+        "ocupation": "VS Model",
+        "age": 30,
+        "country": "Brazil",
+        "salary": 900000,
+        "img": "https://media1.popsugar-assets.com/files/thumbor/HxLt5Yskf01-h-zbhR1F1RRoemw/0x219:3651x3870/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2020/05/29/774/n/1922398/d368ebcb5ed147ed133494.41915736_/i/Adriana-Lima.jpg"
+    },
+    {
+        "name": "Bella Hadid",
+        "ocupation": "Model",
+        "age": 25,
+        "country": "USA",
+        "salary": 950000,
+        "img": "https://media.vogue.fr/photos/5ece7b5a33ecdbcdf2f26dcb/master/pass/GettyImages-958134192.jpg"
+    },
+    {
+        "name": "Gigi Hadid",
+        "ocupation": "Model",
+        "age": 26,
+        "country": "USA",
+        "salary": 1000000,
+        "img": "https://i.insider.com/60ef048da8d8c00019b03207?width=700"
+    },
+    {
+        "name": "Martha Hunt",
+        "ocupation": "VS Model",
+        "age": 32,
+        "country": "USA",
+        "salary": 850000,
+        "img": "https://media1.popsugar-assets.com/files/thumbor/HKevnUskn3cuUgwN9VahFam2KUo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/07/05/968/n/1922564/68eac6575b3e982facbc35.72978814_/i/Martha-Hunt.jpg"
+    },
+    {
+        "name": "Rosie Huntington Whiteley",
+        "ocupation": "VS Model",
+        "age": 34,
+        "country": "UK",
+        "salary": 1000000,
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1071543226.jpg?crop=0.955xw:0.680xh;0.00694xw,0.0643xh&resize=480:*"
+    },
+    {
+        "name": "Miranda Kher",
+        "ocupation": "Model",
+        "age": 38,
+        "country": "Australia",
+        "salary": 1100000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/95/Miranda_Kerr_in_February_2013.jpg"
+    },
+    {
+        "name": "Karlie Kloss",
+        "ocupation": "VS Model",
+        "age": 28,
+        "country": "USA",
+        "salary": 1050000,
+        "img": "https://media.vanityfair.com/photos/5e21f24f05c35800087852fa/4:3/w_1775,h_1331,c_limit/karlie-kloss-meme.jpg"
+    },
+    {
+        "name": "Doutzen kroes",
+        "ocupation": "VS Model",
+        "age": 28,
+        "country": "Netherlands",
+        "salary": 1100000,
+        "img": "https://yt3.ggpht.com/ytc/AKedOLQCZG458jiWnk3UV6DZS0yCTAyve4YTeVryFjrG=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Irina shayek",
+        "ocupation": " Model",
+        "age": 31,
+        "country": "Russia",
+        "salary": 1000000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Irina_Shayk_-_2014_%28cropped%29.jpeg"
+    },
+    {
+        "name": "Stella Maxwell",
+        "ocupation": "VS Model",
+        "age": 21,
+        "country": "Belgium",
+        "salary": 900000,
+        "img": "https://assets.vogue.com/photos/5a208e78b682d629d9377b3d/master/w_2560%2Cc_limit/00-story-stella-maxwell.jpg"
+    },
+    {
+        "name": "Candice Swanepoel",
+        "ocupation": "VS Model",
+        "age": 32,
+        "country": "South Africa",
+        "salary": 1200000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Candice-Swanepoel_2010-03-31_VictoriasSecretStoreChicago_photo-by-Adam_Bielawski.jpg"
+    },
+    {
+        "name": "Romee Strijd",
+        "ocupation": "VS Model",
+        "age": 32,
+        "country": "Netherlands",
+        "salary": 1000000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Romee_Strijd_2011.jpg"
+    },
+    {
+        "name": "Josephine Skriver",
+        "ocupation": "VS Model",
+        "age": 26,
+        "country": "Denmark",
+        "salary": 900000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Josephine_Skriver_%28cropped%29.jpg/1200px-Josephine_Skriver_%28cropped%29.jpg"
+    }
+]
