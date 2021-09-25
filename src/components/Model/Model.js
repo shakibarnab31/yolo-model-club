@@ -11,7 +11,7 @@ const Model = (props) => {
             <p>Age: {age}</p>
             <p>Country:{country}</p>
             <p>Salary:${salary}</p>
-            <button className="btn-cart">Add to cart</button>
+            <button onClick={() => props.handleAddToCart(props.model)} className="btn-cart">Add to cart</button>
         </div>
     );
 };
