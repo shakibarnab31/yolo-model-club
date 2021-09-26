@@ -1,6 +1,7 @@
 .container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    margin-right: 30px;
 }
 .models-container{
     display: grid;
@@ -8,5 +9,4 @@
     grid-column-gap: 10px;
     grid-row-gap: 10px;
     margin-left: 50px;
-    
 }

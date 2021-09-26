@@ -1,7 +1,10 @@
 .cart{
-    position: fixed;
+    position:fixed;
+    
     margin-left: 30px;
     background-color: rgb(240, 235, 235);
     width: 200px;
-    height: 300px;
+    height: auto;
+    padding: 5px;
+    border-radius: 10px;
 }

@@ -13,8 +13,11 @@ const Container = () => {
             .then(data => setModels(data))
     }, []);
     const handleAddToCart = (model) => {
-        const newCart = [...cart, model];
-        setCart(newCart);
+        if (!cart.includes(model)) {
+            const newCart = [...cart, model];
+            setCart(newCart);
+        }
+
 
     }
     return (
